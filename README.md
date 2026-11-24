@@ -51,7 +51,7 @@ Open `index.html` in your code editor and update:
        - `YOUR_PUBLIC_KEY` with your EmailJS Public Key
        - `YOUR_SERVICE_ID` with your Service ID
        - `YOUR_TEMPLATE_ID` with your Template ID
-    6. Update the recipient email in your EmailJS template settings to `alishabaiju2005@gmail.com`
+    6. Update the recipient email in your EmailJS template settings to `xxxxxxxxxxxx@gmail.com`
 
 ## Customize the Style
 
